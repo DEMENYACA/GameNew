@@ -1,0 +1,23 @@
+
+Margin{
+
+}
+body{
+background-image: url("Moon.png");
+border-image-repeat: no repeat;
+height: 300px;
+widows: 200px;
+
+}
+h1{
+   color: rgb(155, 85, 94); 
+font-size: 100pt;
+text-align: center;
+font-family: 'Charm', cursive;
+}
+h2{
+   color: black;
+   font-size: 25pt;
+   text-align:center;
+   font-family: "Charm", cursive;
+}
